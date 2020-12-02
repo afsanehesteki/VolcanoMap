@@ -58,7 +58,7 @@ for lt , ln , el ,name in zip (lat,lon , elev ,name ): # zip () function distrib
 
 map.add_child (fg)
 
-map.save ("Map1.html")
+map.save ("Map.html")
 
 
 
